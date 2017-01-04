@@ -1,17 +1,10 @@
 <!DOCTYPE html>
-<!--
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
--->
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>Teste de versionamento</title>
     </head>
     <body>
-        <?php
-        // put your code here
-        ?>
+        Este é a minha alteração no projeto!
     </body>
 </html>
